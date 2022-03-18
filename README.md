@@ -1,16 +1,83 @@
-### Hi there 👋
 
-<!--
-**leandrodev1989/leandrodev1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=leandrodev1989&color=006bed)
 
-Here are some ideas to get you started:
+### Olá! eu sou o Leandro josé 🖐️ 
+### sou apaixonado por tecnologia 💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="200px" width="350px" align="right" alt="Computador iuriCode">
+<br>
+- Name: Leandro josé
+<br>
+- Location: Brasil 
+<br>
+- Hobbies: Tocar violão
+<br>
+- Projetos: Trabalho voluntario DevsFree
+<br>
+- Linguagem-Favorita: Português - Inglês:)
+<br>
+- 🌱 Aprendendo: Asp NetCore - C#
+<br>
+- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-recife/">Estácio de SÁ</a>.
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">
+  💌 Meus contatos ⤵️
+</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-jos%C3%A9-da-silva-b81474203/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)](https://github.com/leandrodev1989)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrojose.jose/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012038952460)
+
+-----
+<br>
+
+🚀 Minhas Skill ⤵️
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" min-width="100px" max-width="100px" width="60px" align="none"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"min-width="100px" max-width="100px" width="60px" align="none" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"min-width="100px" max-width="100px" width="60px" align="none" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"min-width="100px" max-width="100px" width="60px" align="none" />
+
+----
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrodev1989&show_icons=true&theme=dracula)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodev1989&hide=html&layout=compact=true&theme=dracula)](https://github.com/iuricode/)
+
+<br>
+
+----
+<h3 align="center">Trabalhando em:</h3>
+
+<p align="center">
+  <a href="https://github.com/DevsFree">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=DevsFree&repo=DevsFree&theme=tokyonight">
+    </img>
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
