@@ -52,7 +52,7 @@
 <br>
 
 ----
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">Trabalhando  Voluntario em:</h3>
 
 <p align="center">
   <a href="https://github.com/DevsFree">
