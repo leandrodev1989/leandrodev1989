@@ -3,6 +3,7 @@
 
 ### Olá!  Me chamo Leandro josé 🖐️ 
 ### sou apaixonado por tecnologia 💻
+<img src="https://user-images.githubusercontent.com/83560879/163662198-4946f7ba-87d3-4e6d-88a4-d56bec462887.png" min-whidth="400px" max-width="150" width="150" align="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="200px" width="350px" align="right" alt="Computador iuriCode">
 <br>
 - Name: Leandro josé
