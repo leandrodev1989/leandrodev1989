@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=leandrodev1989&color=006bed)
 
-### Olá! eu sou o Leandro josé 🖐️ 
+### Olá!  Me chamo Leandro josé 🖐️ 
 ### sou apaixonado por tecnologia 💻
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="200px" width="350px" align="right" alt="Computador iuriCode">
 <br>
@@ -15,9 +15,8 @@
 <br>
 - Linguagem-Favorita: Português - Inglês:)
 <br>
-- 🌱 Aprendendo: Asp NetCore - C#
-<br>
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-recife/">Estácio de SÁ</a>.
+   - Estudando: Asp NetCore - C#
+<br>&nbsp;- Cursando Analise e Desenvolvimento de Sistemas** na <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-recife/">Estácio de SÁ</a>.
 <br>
 <br>
 
