@@ -17,7 +17,7 @@
 - Linguagem-Favorita: Português - Inglês:)
 <br>
    - Estudando: Asp NetCore - C#
-<br>&nbsp;- Cursando Analise e Desenvolvimento de Sistemas** na <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-recife/">Estácio de SÁ</a>.
+<br>&nbsp;- Cursando Analise e Desenvolvimento de Sistemas na <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-recife/">Estácio de SÁ</a>.
 <br>
 <br>
 
